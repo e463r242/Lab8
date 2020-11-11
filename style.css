@@ -1,0 +1,40 @@
+p.header{
+	padding-top: 70px;
+	text-align: center;
+    color: limegreen;
+	
+}
+
+p.text{
+	text-align:center;
+	width:90%;
+	font-size: 20px;
+	padding-left: 2%;
+	margin: auto;
+	width 50%;
+    color: White;
+    background-color: black;
+
+}
+
+div.border{
+	background-color: orange;
+	margin: auto;
+	font-size: 40px;
+	width:75%;
+	border: 10px dotted red;
+	padding: 10px;
+	text-align: center;
+	color: white;
+	
+
+	
+}
+
+body{
+	background-image: url(background.gif);
+	background-size: 100%;
+	background-repeat: no-repeat;
+
+}
+
