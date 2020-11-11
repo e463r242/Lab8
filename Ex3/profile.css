@@ -1,14 +1,29 @@
 p.header{
-    color: indigo;
+    color: white;
+	text-align:center;
+}
+
+div.pic{
+
+	text-align:center;
 }
 
 p.profile{
-    color: lightskyblue;
-    background-color: black;
+	text-align:center;
+	
+	margin:auto;
+	width:50%;
+    color: indigo;
+    background-color: lightblue;
+	
 
 }
 
+
 body{
-    background-color: grey;
+	background-image: url(background.gif);
+	background-size: 100%;
+	background-repeat: no-repeat;
+
 }
 
